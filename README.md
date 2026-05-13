@@ -1,16 +1,13 @@
-## Hi there 👋
+---
+title: Podnośniki Śląskie - Wysokość to Nasza Specjalność 🚀
+colorFrom: red
+colorTo: red
+emoji: 🐳
+sdk: static
+pinned: false
+tags:
+  - deepsite-v3
+---
 
-<!--
-**Partners-lift/Partners-lift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to your new DeepSite project!
+This project was created with [DeepSite](https://huggingface.co/deepsite).
